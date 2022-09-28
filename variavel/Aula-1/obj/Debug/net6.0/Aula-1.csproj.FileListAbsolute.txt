@@ -1,0 +1,5 @@
+C:\Users\SENAI\Documents\kallyane C#\variavel\Aula-1\obj\Debug\net6.0\Aula-1.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\variavel\Aula-1\obj\Debug\net6.0\Aula-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\variavel\Aula-1\obj\Debug\net6.0\Aula-1.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\variavel\Aula-1\obj\Debug\net6.0\Aula-1.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\variavel\Aula-1\obj\Debug\net6.0\Aula-1.csproj.CoreCompileInputs.cache
